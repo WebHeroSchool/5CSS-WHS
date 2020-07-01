@@ -1,0 +1,16 @@
+* {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Pangolin', cursive;
+}
+
+td {
+  column-count: 2;
+}
+
+ul {
+  list-style-position: inside;
+}
